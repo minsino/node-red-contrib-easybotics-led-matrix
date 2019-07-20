@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "get-pixels": "3.3.2",
-    "easybotics-rpi-rgb-led-matrix": "0.3.0"
+    "easybotics-rpi-rgb-led-matrix": "minsino/node-rpi-rgb-led-matrix"
   },
   "homepage": "https://github.com/easybotics/node-red-contrib-easybotics-led-matrix",
   "bugs": "https://github.com/easybotics/node-red-contrib-easybotics-led-matrix/issues",
